@@ -5,3 +5,4 @@ It's the mobile version of the woof collab project, that lets people collaborate
 
 Technologies: Javascript | React Native | Firebase | Cloud Firestore
 
+![](flowchart.png)
